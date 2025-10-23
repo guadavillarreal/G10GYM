@@ -28,5 +28,4 @@ El administrador puede crear, modificar o eliminar usuarios, gestionar clases y 
 - [MySQL / MongoDB]
 
 **Otros:**  
-- JWT para autenticación  
 - Git y GitHub para control de versiones  
