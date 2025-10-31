@@ -21,11 +21,11 @@ El administrador puede crear, modificar o eliminar usuarios, gestionar clases y 
 
 **Frontend:**  
 - HTML5 / CSS3 / JavaScript  
-- [React / Bootstrap 
+- React / Bootstrap 
 
 **Backend:**  
 - Node.js / Express  
-- [MySQL / MongoDB]
+- MySQL 
 
 **Otros:**  
 - Git y GitHub para control de versiones  
