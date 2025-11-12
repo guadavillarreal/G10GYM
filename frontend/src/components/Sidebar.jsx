@@ -85,7 +85,7 @@ export default function Sidebar() {
   const navigate = useNavigate()
 
   const handleLogout = () => {
-    // limpiar todo el localStorage para esta demo (podés ajustar)
+    // limpiar todo el localStorage 
     localStorage.clear()
     navigate('/')
   }

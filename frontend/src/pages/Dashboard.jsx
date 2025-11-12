@@ -15,7 +15,7 @@ export default function Dashboard() {
       <main style={containerStyle}>
         <div className="container-fluid">
           <h2 style={{ color: '#ffffff' }}>Bienvenido</h2>
-          <p className="text-muted">Panel de inicio para socios — reservá clases según tu membresía.</p>
+          <p className>Panel de inicio para socios — reservá clases según tu membresía.</p>
 
           <div className="row mt-4">
             <div className="col-md-4 mb-3">
