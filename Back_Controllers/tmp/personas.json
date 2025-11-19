@@ -1,0 +1,85 @@
+﻿{
+    "value":  [
+                  {
+                      "id_personas":  1,
+                      "nombre":  "Charly",
+                      "apellido":  "Brown",
+                      "dni":  44234234,
+                      "email":  "qwerty@example.com",
+                      "telefono":  "3812334567"
+                  },
+                  {
+                      "id_personas":  2,
+                      "nombre":  "María",
+                      "apellido":  "Gómez",
+                      "dni":  38999888,
+                      "email":  "maria.gomez@email.com",
+                      "telefono":  "1133445566"
+                  },
+                  {
+                      "id_personas":  3,
+                      "nombre":  "Carlos",
+                      "apellido":  "López",
+                      "dni":  37222444,
+                      "email":  "carlos.lopez@email.com",
+                      "telefono":  "1144556677"
+                  },
+                  {
+                      "id_personas":  4,
+                      "nombre":  "Lucía",
+                      "apellido":  "Martínez",
+                      "dni":  42333666,
+                      "email":  "lucia.martinez@email.com",
+                      "telefono":  "1155667788"
+                  },
+                  {
+                      "id_personas":  5,
+                      "nombre":  "Federico",
+                      "apellido":  "Ramos",
+                      "dni":  39555111,
+                      "email":  "federico.ramos@email.com",
+                      "telefono":  "1166778899"
+                  },
+                  {
+                      "id_personas":  6,
+                      "nombre":  "Sofía",
+                      "apellido":  "Díaz",
+                      "dni":  41000999,
+                      "email":  "sofia.diaz@email.com",
+                      "telefono":  "1177889900"
+                  },
+                  {
+                      "id_personas":  7,
+                      "nombre":  "Martín",
+                      "apellido":  "Suárez",
+                      "dni":  40222555,
+                      "email":  "martin.suarez@email.com",
+                      "telefono":  "1188990011"
+                  },
+                  {
+                      "id_personas":  8,
+                      "nombre":  "Camila",
+                      "apellido":  "Fernández",
+                      "dni":  39333999,
+                      "email":  "camila.fernandez@email.com",
+                      "telefono":  "1199001122"
+                  },
+                  {
+                      "id_personas":  9,
+                      "nombre":  "Andrés",
+                      "apellido":  "Vega",
+                      "dni":  37555666,
+                      "email":  "andres.vega@email.com",
+                      "telefono":  "1100112233"
+                  },
+                  {
+                      "id_personas":  10,
+                      "nombre":  "Valentina",
+                      "apellido":  "Castro",
+                      "dni":  38555777,
+                      "email":  "valentina.castro@email.com",
+                      "telefono":  "1111223344"
+                  }
+              ],
+    "Count":  10
+}
